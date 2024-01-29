@@ -1,7 +1,7 @@
 {
-  "name": "patternfly-seed",
-  "version": "0.0.2",
-  "description": "An open source build scaffolding utility for web apps.",
+  "name": "ogps-website",
+  "version": "0.0.0",
+  "description": "Website for Boston public schools.",
   "repository": "https://github.com/patternfly/patternfly-react-seed.git",
   "homepage": "https://patternfly-react-seed.surge.sh",
   "license": "MIT",
